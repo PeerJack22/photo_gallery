@@ -1,5 +1,7 @@
 # Capturas de la app en funcionamiento
 
+Hecho por Paulo Cisneros y Eddy Morales
+
 ## App en el teléfono
 
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ab40dbb6-6e8d-4095-aa12-b1574db39ade" />
